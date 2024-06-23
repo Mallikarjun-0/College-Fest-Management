@@ -1,1 +1,1 @@
-# DBMS-Lab-Assignment-4
+# College Fest Management System.
