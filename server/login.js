@@ -13,7 +13,7 @@ router.post('/',  async (req, res) => {
 
     try{
         const id = req.body.id;
-        console.log("pass: ", req.body.password);
+        // console.log("pass: ", req.body.password);
         
         const user = await pool.query("SELECT id,password from users where users.id = $1 and users.role = $2", [id,req.body.role]);
         
@@ -27,7 +27,7 @@ router.post('/',  async (req, res) => {
             
             const accessToken = jwt.sign(user, process.env.ACCESS_TOKEN_SECRET);
 
-            console.log("Logged in");
+            // console.log("Logged in");
             res.status(200).json({accessToken : accessToken});
 
 

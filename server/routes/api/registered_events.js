@@ -13,7 +13,7 @@ router.post('/:id', async (req, res) => {
     try{
         const eid = req.body.eid;
         const role = req.body.role;
-        console.log(role);
+        // console.log(role);
         if(role === 'student'){
             const newRegisteredEvent = await pool.query("INSERT INTO student_participates (roll, eid) VALUES($1, $2) RETURNING *", [req.params.id, eid]);
             res.json(newRegisteredEvent.rows);
@@ -35,7 +35,7 @@ router.post('/:id', async (req, res) => {
 router.get('/:id', async (req, res) => {
     try{
         const id = req.params.id;
-        console.log(id);
+        // console.log(id);
 
         const user = await pool.query("SELECT * FROM users WHERE id = $1", [id]);
         const role = user.rows[0].role;

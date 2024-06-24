@@ -13,7 +13,7 @@ const router = express.Router();
 
 router.post('/', async (req, res) => {
 
-    console.log(req.body);
+    // console.log(req.body);
 
     try{
         const id = req.body.id;
