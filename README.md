@@ -4,6 +4,7 @@
 ### Description
 
 In this project I built a web application for College Festival Management, this application is a goto for every person/user involved in organising college fest, participaitng in college fest, Managing events, logistics.
+In this project the focus is more on how database works, how it is integrated to a useful web application with different functionalities.
 
 ### Tech Stack
 
@@ -56,4 +57,7 @@ Run server app using the following commands:
 ```
 
 ### Demo(Screenshots)
+
+#### Login Page
+![Alt text](image.png)
 
