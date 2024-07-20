@@ -62,48 +62,48 @@ npm start
 ## Demo(Screenshots)
 
 ### Signin Page
-![Alt text](image.png)
+![Alt text](Demo_screenshots/image.png)
 
 ### Signup Page
-![Alt text](image-1.png)
+![Alt text](Demo_screenshots/image-1.png)
 
 ### Interface for Students
 #### Home Page
-![Alt text](image-2.png)
+![Alt text](Demo_screenshots/image-2.png)
 
 #### Registered Events Page
-![Alt text](image-4.png)
+![Alt text](Demo_screenshots/image-4.png)
 
 #### Volunteering Events Page
-![Alt text](image-5.png)
+![Alt text](Demo_screenshots/image-5.png)
 
 ### Interface for External Participants
 #### Home Page
-![Alt text](image-6.png)
+![Alt text](Demo_screenshots/image-6.png)
 
 #### Registered Events Page
-![Alt text](image-7.png)
+![Alt text](Demo_screenshots/image-7.png)
 
 #### Logistics
-![Alt text](image-8.png)
+![Alt text](Demo_screenshots/image-8.png)
 
 ### Interface for Organizers
 #### Home Page
 All Events in the fest\
-![Alt text](orgallhome.png)
+![Alt text](Demo_screenshots/orgallhome.png)
 
 #### Organizing events
 Events organized by a particular organizer\
-![Alt text](image-9.png)
+![Alt text](Demo_screenshots/image-9.png)
 
 #### Participants Logistics
-![Alt text](image-10.png)
+![Alt text](Demo_screenshots/image-10.png)
 
 #### List of volunteers in the organizing events
-![Alt text](image-12.png)
+![Alt text](Demo_screenshots/image-12.png)
 
 ### Admin Interface
-![Alt text](image-11.png)
+![Alt text](Demo_screenshots/image-11.png)
 
 
 
