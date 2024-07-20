@@ -58,6 +58,26 @@ Run server app using the following commands:
 
 ### Demo(Screenshots)
 
-#### Login Page
+#### Signin Page
 ![Alt text](image.png)
+
+#### Signup Page
+![Alt text](image-1.png)
+
+#### Interface for Students
+##### Home Page
+![Alt text](image-2.png)
+
+##### Registered Events Page
+![Alt text](image-3.png)
+
+##### Volunteering Events Page
+
+
+#### Interface for external Participants
+##### Home Page
+
+##### Registered Events Page
+
+#####
 
